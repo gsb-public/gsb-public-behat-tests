@@ -6,5 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    $vendorDir . '/phpunit/phpunit/src/Framework/Assert/Functions.php',
     $vendorDir . '/react/promise/src/functions_include.php',
 );
