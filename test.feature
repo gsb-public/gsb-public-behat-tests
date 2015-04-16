@@ -1,4 +1,4 @@
-Feature: Stanford Searc
+Feature: Stanford Search
 
 @javascript
 Scenario: Search for stanford
